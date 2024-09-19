@@ -90,4 +90,4 @@ pn.template.FastListTemplate(
 
 #dashboard.servable()
 
-#bokeh serve --show --port 5002 sanji_ai.py
+#bokeh serve --show --port 5002 Sanji.py
