@@ -1,0 +1,8 @@
+
+**SanjiBOT Cooking Chatbot**
+
+I developed a sophisticated chatbot, *SanjiBOT*, using OpenAI’s GPT-3.5 Turbo, designed to assist users in creating step-by-step recipes based on available ingredients, time constraints, and dietary preferences. By leveraging advanced prompt engineering techniques, I optimized the chatbot’s ability to interpret user inputs and generate highly personalized, context-aware recipe suggestions. The chatbot dynamically adjusts its responses to fit the specific needs of the user, making it highly adaptable and intuitive.
+
+To enhance user interaction, I integrated Python’s Panel library, which enabled the visualization of the chatbot's functionality. This created a smooth, user-friendly interface, allowing users to interact with the chatbot in a more engaging and accessible manner. The interface includes features such as ingredient input, time selectors, and recipe outputs, all visually represented for ease of use.
+
+Furthermore, I incorporated multi-language support into the chatbot, making it accessible to a global audience. Users can input their preferred language, and *SanjiBOT* translates the recipes accordingly, ensuring clarity and ease of understanding. This multi-language feature broadens the chatbot’s usability, enabling people from diverse linguistic backgrounds to engage with it effortlessly. The combination of AI-driven recipe generation and a highly interactive interface sets *SanjiBOT* apart as a powerful, practical tool for anyone looking to explore new recipes.
